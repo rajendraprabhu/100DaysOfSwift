@@ -1,2 +1,2 @@
 # 100DaysOfSwift
-https://www.hackingwithswift.com/100
+This is to track my personal progress: https://www.hackingwithswift.com/100
